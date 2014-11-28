@@ -1,4 +1,5 @@
 ### Well hello there!
+How do I know that this is my copy and not the original that I am tampering with. Can I change its name?
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
